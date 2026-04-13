@@ -14,8 +14,10 @@
 </div>
 
 <div align="center">
-<img width="1280" height="720" alt="https://github.com/user-attachments/assets/e20e0b49-6945-4e50-a747-13d0b08a71af" />
+<img width="3839" height="2062" alt="adobe-illustrator-vs-photoshop-whats-the-difference_vu5k" src="https://github.com/user-attachments/assets/3b4cbc0d-4e50-4a26-9c9e-a85ba8396108" />
 </div>
+
+
 
 ---
 
